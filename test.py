@@ -24,5 +24,5 @@ class Test(unittest.TestCase):
 
 if __name__ == "__main__":
     print ('INICIANDO OS TESTES')
-    print('----------------------------------------------------------------------')
+    print('LeviSantos---------------------------------------------------------------**')
     unittest.main(verbosity=2)
